@@ -1,1 +1,2 @@
-To recognize and detect the size of images by the Android app and the Machine Learning kit.
+# CryptocurrencyWallet
+It is an app for cryptocurrency wallet
